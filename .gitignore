@@ -1,0 +1,13 @@
+cmd/bin
+.vscode/*.json
+*.code-workspace
+.idea/
+*.coverprofile
+coverage.out
+debug
+.DS_Store
+/vendor
+.env*
+*.test
+ginkgo.report
+postgres-data
